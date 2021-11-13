@@ -1,0 +1,77 @@
+/*************************
+ *  your code goes here  *
+ *************************/
+
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+ .bx-type{
+    font-family:'Roboto',sans-serif !important ;
+ }
+ .bxc .bx-step.bx-step-active {
+   background-color: rgb(255, 180, 41);
+   
+} 
+
+ .bx-row-subheadline-1 ,.bx-row-headline-1 ,.bx-row-headline-2{
+     color:blue;
+ }
+
+
+ .emailForm{
+    width: 70%;
+    padding: 12px 20px;
+    display: inline-block;
+    margin: 8px 0;
+  
+    
+}
+input[type=email], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgb(232, 224, 224);
+    border-radius: 4px;
+    resize: vertical;
+    box-shadow: 5px 5px 5px #969595,inset 0px 0px 5px 0px rgba(0,0,0,1);
+
+   
+    
+  }
+ 
+#submit{
+   
+    width: 65%;
+    background-color:blue;
+    color: white;
+    display: inline-block;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px #969595;
+    background:blue;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(31%,blue), color-stop(100%,rgb(101, 101, 247)));
+  background: -webkit-linear-gradient(top,  blue 31%,rgb(101, 101, 247) 100%);
+  background: -moz-linear-gradient(top,  blue 31%,rgb(101, 101, 247) 100%);
+  background: -o-linear-gradient(top,  blue 31%,rgb(101, 101, 247) 100%);
+  background: -ms-linear-gradient(top,  blue 31%,rgb(101, 101, 247) 100%);
+  background: linear-gradient(to bottom,  blue 31%,rgb(101, 101, 247) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='blue', endColorstr='rgb(101, 101, 247)',GradientType=0 );
+ 
+ 
+  border: 1px solid blue;
+ 
+  
+
+  text-shadow: 1px 1px 0px rgba(255,255,255,.5);
+
+ 
+    position: relative;
+  
+}
+
+ 
+
+
+
+
